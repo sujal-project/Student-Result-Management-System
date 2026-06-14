@@ -104,4 +104,8 @@ student-result-management/
 ├── .gitignore                                 # Prevents /target folder tracking
 ├── pom.xml                                    # Maven Dependency Blueprint Configuration
 └── README.md                                  # Repository Documentation
+<<<<<<< HEAD
 '''
+=======
+'''
+>>>>>>> df86ddade5991a262bd5ad34cb6fc8adcaf76b9a
