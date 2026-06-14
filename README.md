@@ -85,7 +85,7 @@ Once you see the terminal trace output display Tomcat started on port 8080, swit
 
 ## 📁 Repository Structure
 
-text
+```text
 student-result-management/
 │
 ├── src/
@@ -104,3 +104,4 @@ student-result-management/
 ├── .gitignore                                 # Prevents /target folder tracking
 ├── pom.xml                                    # Maven Dependency Blueprint Configuration
 └── README.md                                  # Repository Documentation
+```
